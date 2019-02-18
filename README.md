@@ -21,3 +21,10 @@
 <li><a href="https://Nykera.github.io">Ny'Kera Braziel</a></li>
 <li><a href="https://rayana.github.io">Rayana Mickens</a></li>
 <li><a href="https://shaderiaaa.github.io">CharMondria Jones</a></li>    
+
+
+</ul>
+
+</body>
+
+<html>
